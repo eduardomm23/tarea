@@ -1,0 +1,18 @@
+form {
+	font-size: medium;
+	width: 100%;
+    margin: 8px 0;
+    text-align: center;
+    background-color: lightblue;
+}
+
+label {
+	font-size: large;
+	width: 100%;
+    margin: 8px 0;
+    
+}
+
+div {
+    text-align: center;
+}
